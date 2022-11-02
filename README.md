@@ -9,9 +9,12 @@ and qrcode package.
 
 ## Instructions
 
-- Clone the repository and move to the project directory:
+- Clone the repository:
   ```bash
     https://github.com/muhammedgunaydin/QrCode-Generator.git
+  ```
+  - Move to the project directory:
+  ```bash
     cd QrCode-Generator
   ```
 - To load the package:
