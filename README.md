@@ -13,7 +13,7 @@ and qrcode package.
   ```bash
     https://github.com/muhammedgunaydin/QrCode-Generator.git
   ```
-  - Move to the project directory:
+- Move to the project directory:
   ```bash
     cd QrCode-Generator
   ```
